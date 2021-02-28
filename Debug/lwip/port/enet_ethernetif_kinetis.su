@@ -1,0 +1,13 @@
+core_cm4.h:1809:22:__NVIC_SetPriority	16	static
+fsl_enet.h:1109:20:ENET_ActiveRead	16	static
+enet_ethernetif_kinetis.c:157:13:ethernet_callback	48	static
+enet_ethernetif_kinetis.c:287:6:ethernetif_enet_init	112	static
+enet_ethernetif_kinetis.c:381:8:ethernetif_enet_ptr	16	static
+enet_ethernetif_kinetis.c:390:23:enet_get_tx_buffer	16	static
+enet_ethernetif_kinetis.c:399:14:enet_send_frame	48	static
+enet_ethernetif_kinetis.c:439:13:ethernetif_rx_release	24	static
+enet_ethernetif_kinetis.c:455:21:ethernetif_read_frame	80	static
+enet_ethernetif_kinetis.c:524:13:ethernetif_drop_frame	64	static
+enet_ethernetif_kinetis.c:551:14:ethernetif_linkinput	32	static
+enet_ethernetif_kinetis.c:575:7:ethernetif_linkoutput	40	static
+enet_ethernetif_kinetis.c:662:7:ethernetif0_init	16	static
